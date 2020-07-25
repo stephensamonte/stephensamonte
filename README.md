@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy parkour & free-running
 
 <!--
-<a href="https://github.com/Luis-C/github-readme-stats">
+<a href="https://github.com/stephensamonte/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephensamonte&show_icons=true&count_private=true&theme=onedark&line_height=40" alt="Stephen's github stats" />
 </a>
 
-<a href="https://github.com/Luis-C/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&theme=onedark" />
+<a href="https://github.com/stephensamonte/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephensamonte&theme=onedark" />
 </a>
 -->
