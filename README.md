@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My Public Programming Tools: https://programming.mytools.dev/
-- My Public Computer Tools: https://computer.mytools.dev/
+- [My Public Programming Tools](https://programming.mytools.dev/)
+- [My Public Computer Tools](https://computer.mytools.dev/)
 - 🔭 I’m currently working on [CaughtUp](https://www.caughtup-app.com) and [Abstract Assembly](https://www.abstract-assembly.com) as a side project.
 - 🤔 I’m looking for help with [CaughtUp](https://www.caughtup-app.com). If you're a friend or are really interested, reachout to me.
 - 📫 How to reach me: find me on [LinkedIn](https://www.linkedin.com/in/stephen-samonte-tan/)... with email I find it hard to tell if something is spam.
